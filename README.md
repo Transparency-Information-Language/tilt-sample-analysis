@@ -1,3 +1,5 @@
+![Python application](https://github.com/Transparency-Information-Language/tilt-sample-analysis/workflows/Python%20application/badge.svg)
+
 # tilt Sample Analysis tasks
 In this repository it is shown how potential analysis tasks could be performed using [python-tilt](https://github.com/Transparency-Information-Language/python-tilt) and the [tilt-hub](https://github.com/Transparency-Information-Language/tilt-hub).
 
