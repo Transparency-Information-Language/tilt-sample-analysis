@@ -40,8 +40,10 @@ python3 sample-query.py
     {'meta': {'name': 'Yellow'}}
 ````
 
+
 ## Author
 Elias Grünewald
 
 ## License
-GNU General Public License, Version 3
+[MIT License](LICENSE)
+
